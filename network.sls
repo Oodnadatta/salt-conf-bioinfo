@@ -4,3 +4,4 @@ network.pkgs:
       - curl
       - openssh-client
       - openssh-server
+      - xpra
