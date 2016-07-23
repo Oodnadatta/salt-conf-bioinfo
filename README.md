@@ -1,4 +1,4 @@
-# Configuration SalStack pour Cookie
+# Configuration SaltStack pour Cookie
 
 La configuration de SaltStack se trouve dans `/srv/salt`
 
