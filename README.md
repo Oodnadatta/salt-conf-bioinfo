@@ -17,8 +17,8 @@ sudo mkdir -p /srv
 
 3) Récupérer tous les fichiers de github et les mettre dans `/srv/salt`.
 ```sh
-sudo git clone https://github.com/Oodnadatta/salt-conf.git /srv/salt #(pour les autres)
-sudo git clone git@github.com:Oodnadatta/salt-conf.git /srv/salt #(pour moi)
+sudo git clone https://github.com/Oodnadatta/salt-conf-bioinfo.git /srv/salt #(pour les autres)
+sudo git clone git@github.com:Oodnadatta/salt-conf-bioinfo.git /srv/salt #(pour moi)
 ```
 4) Lancer salt et appliquer la configuration saltstack sur la machine.
 ```
