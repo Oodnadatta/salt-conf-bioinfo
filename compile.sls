@@ -1,6 +1,6 @@
 compile.pkgs:
   pkg.installed:
     - pkgs:
-      - ant
+      - ant #pour compiler du Java
       - cmake
-      - fpc
+      - fpc #pour compiler du Pascal
